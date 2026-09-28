@@ -1,0 +1,8 @@
+{
+  "name": "StockSense India",
+  "description": "Real-time Indian stock market intelligence, live NSE/BSE price charts, technical analysis, research X-Ray, alerts, and strategy lab.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
